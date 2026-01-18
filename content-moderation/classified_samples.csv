@@ -1,11 +1,16 @@
-original_content,label,notes
-"This is a great product! Highly recommend it to everyone.","positive","User expressed satisfaction."
-"I hate this service. It was a waste of time.","negative","User expressed dissatisfaction."
-"The quality is okay, but it could be better.","neutral","User provided a mixed review."
-"Absolutely terrible experience! Never using this again.","negative","Strong negative feedback."
-"Fantastic! Exceeded my expectations.","positive","User had a very positive experience."
-"Not worth the money. I expected more.","negative","User felt the product was overpriced."
-"Decent product, but the customer service was lacking.","neutral","User had a mixed experience."
-"Love it! Will definitely buy again.","positive","User expressed strong satisfaction."
-"Very disappointing. I wouldn't recommend it to anyone.","negative","User had a very negative experience."
-"Average experience, nothing special.","neutral","User provided a neutral review."
+text,category,reasoning
+"The product arrived on time and works as expected",Safe,General product feedback
+"I disagree with your opinion but respect your view",Safe,Polite disagreement
+"This article contains false information about vaccines",Misinformation,Spreads incorrect health claims
+"I feel anxious after watching the news",Sensitive,Emotional response to stressful content
+"People like you should not be allowed here",Hate Speech,Attacks a group or individual
+"The service was terrible and very disappointing",Safe,Negative feedback without hate
+"This post exaggerates facts to mislead readers",Misinformation,Misleading information
+"I saw a violent scene in the movie",Sensitive,Reference to violence
+"You are inferior and worthless",Hate Speech,Direct verbal attack
+"How do I reset my account password?",Safe,General help request
+"This news story is completely made up",Misinformation,False reporting
+"The documentary discusses war and conflict",Sensitive,Discussion of violent topics
+"Customer support was very helpful",Safe,Positive feedback
+"They should all be removed from society",Hate Speech,Discriminatory statement
+"This claim has no scientific evidence",Misinformation,Unsupported factual claim
