@@ -1,0 +1,13 @@
+text-annotation/labeled_examples.csv
+
+text,assigned_label,annotator_comments
+"Artificial intelligence is transforming industries.",Technology,"This text discusses the impact of AI."
+"The quick brown fox jumps over the lazy dog.",General,"Common English pangram."
+"Climate change is a pressing global issue.",Environment,"Focuses on environmental concerns."
+"Python is a versatile programming language.",Technology,"Highlights the flexibility of Python."
+"Social media can influence public opinion.",Social,"Discusses the role of social media in society."
+"Exercise is essential for a healthy lifestyle.",Health,"Emphasizes the importance of physical activity."
+"Renewable energy sources are crucial for sustainability.",Environment,"Addresses the need for sustainable energy."
+"Machine learning is a subset of artificial intelligence.",Technology,"Clarifies the relationship between ML and AI."
+"Cybersecurity threats are on the rise.",Security,"Notes the increasing importance of cybersecurity."
+"Reading books can enhance knowledge and creativity.",Education,"Promotes the benefits of reading."

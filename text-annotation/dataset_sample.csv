@@ -1,0 +1,9 @@
+text,labels,metadata
+"This is a sample text for annotation.","Positive","{\"source\": \"user_input\", \"length\": 30}"
+"This text needs to be classified as negative.","Negative","{\"source\": \"user_input\", \"length\": 36}"
+"Neutral statements should not be labeled as positive or negative.","Neutral","{\"source\": \"user_input\", \"length\": 63}"
+"Please annotate this text as ambiguous.","Ambiguous","{\"source\": \"user_input\", \"length\": 37}"
+"This is an example of a clearly positive statement.","Positive","{\"source\": \"user_input\", \"length\": 45}"
+"Negative sentiments are expressed in this text.","Negative","{\"source\": \"user_input\", \"length\": 42}"
+"Text that does not fit into any category should be marked as uncategorized.","Uncategorized","{\"source\": \"user_input\", \"length\": 78}"
+"Ensure to follow the guidelines while annotating this text.","Guideline Followed","{\"source\": \"user_input\", \"length\": 61}"

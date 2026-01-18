@@ -1,0 +1,11 @@
+Output ID,AI Output,Evaluation Criteria,Score,Comments
+1,"The quick brown fox jumps over the lazy dog.",Accuracy,9,"The output is accurate and coherent."
+2,"A cat is a small domesticated carnivorous mammal.",Relevance,8,"The output is relevant but could include more context."
+3,"The sun rises in the east and sets in the west.",Coherence,10,"The output is coherent and well-structured."
+4,"Water is essential for life.",Accuracy,7,"The output is mostly accurate but lacks detail."
+5,"The Eiffel Tower is located in Paris.",Relevance,9,"The output is relevant and informative."
+6,"Elephants are the largest land animals.",Coherence,8,"The output is coherent but could be more concise."
+7,"Photosynthesis is the process by which green plants make their own food.",Accuracy,10,"The output is accurate and well-explained."
+8,"The Great Wall of China is visible from space.",Relevance,6,"The output is misleading; it is a common myth."
+9,"Shakespeare wrote 'Romeo and Juliet'.",Coherence,9,"The output is coherent and provides a clear statement."
+10,"The capital of Japan is Tokyo.",Accuracy,10,"The output is accurate and straightforward."
