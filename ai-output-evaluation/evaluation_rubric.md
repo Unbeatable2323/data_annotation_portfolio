@@ -51,4 +51,4 @@ This rubric is designed to provide a structured approach for evaluating AI-gener
      - 5: Highly engaging
 
 ## Usage
-Evaluators should use this rubric to assess AI-generated outputs systematically. Each criterion should be rated on the provided scale, and comments should be added to justify the scores. This structured feedback will help in refining AI models and improving output quality over time.
+Evaluators should use this rubric to assess AI-generated outputs systematically.
